@@ -110,3 +110,10 @@ if __name__ == "__main__":
     # Save the output image
     recolored_image.save("output_recolored_image.png")
     print("The recolored image has been saved as 'output_recolored_image.png'.")
+
+# from DrawingColour import PDFToImageProcessor
+#
+# processor = PDFToImageProcessor()
+# processor.set_target_color("green")  # Change to desired color
+# recolored_image = processor.process_pdf("Test1.pdf", page_number=0)
+# recolored_image.save("output.png")

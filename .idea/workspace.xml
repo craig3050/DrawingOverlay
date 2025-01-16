@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b077b708-61ff-4844-ac8c-4171b97535a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DrawingOverlay.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompareAndOverlay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawingOverlay-old.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrawingOverlay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileNameMatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingColour.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +39,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.CompareAndOverlay.executor": "Run",
+    "Python.DrawingOverlay.executor": "Run",
+    "Python.FileNameMatcher.executor": "Run",
     "Python.test1.executor": "Run",
     "Python.test2.executor": "Run",
+    "Python.test3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/craig/Documents/GitHub/DrawingOverlay"
   }
