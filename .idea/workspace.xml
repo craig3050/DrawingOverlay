@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b077b708-61ff-4844-ac8c-4171b97535a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CompareAndOverlay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawingOverlay-old.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrawingOverlay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileNameMatcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DrawingColour.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
