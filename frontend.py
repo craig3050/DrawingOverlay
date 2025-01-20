@@ -145,7 +145,7 @@ with col1:
 with col2:
     st.header("Upload Current Revision")
     uploaded_files_dir2 = st.file_uploader("Drag files here", accept_multiple_files=True, key="uploader_dir2")
-    color2 = st.selectbox("Select color for Current Revision:", ["Blue", "Red", "Green", "Orange", "Pink", "Yellow"]).lower()
+    color2 = st.selectbox("Select color for Current Revision:", ["Red", "Blue", "Green", "Orange", "Pink", "Yellow"]).lower()
     if uploaded_files_dir2:
         save_files(uploaded_files_dir2, DIR2)
 
